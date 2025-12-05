@@ -1,7 +1,7 @@
 # ANLP_Final_Project
 #### Task_01
 # Medical RAG Assistant with LangChain Integration
-
+# dataset link: https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 A Retrieval-Augmented Generation (RAG) system for medical question answering, built with clinical transcription data and LangChain patterns.
 
 ##  What It Does
@@ -87,6 +87,7 @@ Key information:
 
 #### Task02
 # Policy Compliance Checker RAG System (Task 02)
+# dataset link: https://www.atticusprojectai.org/cuad	
 
 ## Project Overview
 This project implements a Policy Compliance Checker RAG (Retrieval-Augmented Generation) System designed to automate contract compliance analysis. It leverages advanced Natural Language Processing (NLP) techniques, including vector embeddings, a robust vector store, and a generative AI model (Gemini) integrated through custom LangChain tools, all orchestrated by an intelligent multi-step agent workflow.
